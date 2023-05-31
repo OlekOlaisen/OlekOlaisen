@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  ![OlekOlaisen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlekOlaisen&show_icons=true&theme=great-gatsby&rank_icon=true&count_private=true&bg_color=00000000&hide=contribs)
+  ![OlekOlaisen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlekOlaisen&show_icons=true&theme=great-gatsby&rank_icon=true&count_private=true&bg_color=00000000&hide=contribs&hide_border=true)
 
 </div>
 
