@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200">
 
-  <h2>Hi there! I'm Ole Kristian Heian Olaisen 👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Hi+there!+I'm+Ole+Kristian+%F0%9F%91%8B;I'm+a+front-end+developer+from+Norway!)](https://git.io/typing-svg)
 
   <a href="https://www.linkedin.com/in/okho/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
