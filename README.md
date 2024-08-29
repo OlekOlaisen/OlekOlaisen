@@ -7,21 +7,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olekolaisen&layout=compact&langs_count=8&card_width=220&theme=transparent&title_color=ffb61c&text_color=ffffff&hide_border=true" />
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olekolaisen&theme=transparent&title_color=ffb61c&text_color=ffffff&hide_border=true&custom_title=Stats" />
 
-
-
-  
-
-
 </div>
 
 <div align="left"> 
 
-
 ### 👨‍💻 About Me
 
 I'm a passionate **front-end developer** with a strong focus on creating responsive and interactive web applications. I enjoy working with modern frameworks and tools to bring ideas to life and strive to deliver clean, efficient, and scalable code.
-
-
 
 ### 📫 Get in Touch
 
@@ -30,3 +22,8 @@ I'm a passionate **front-end developer** with a strong focus on creating respons
   </a>
 
 </div>
+
+### 📌 Check Out My Work
+
+Feel free to explore my pinned projects below to see some of my most fun projects!
+
