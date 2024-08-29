@@ -25,5 +25,5 @@ I'm a passionate **front-end developer** with a strong focus on creating respons
 
 ### 📌 Check Out My Work
 
-Feel free to explore my pinned projects below to see some of my most fun projects!
+Feel free to explore my pinned projects below!
 
